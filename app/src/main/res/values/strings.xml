@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HelloWorld-AndroidApp</string>
+    <string name="test">Test</string>
+    <string name="ok">OK</string>
+    <string name="hello">HelloWorld</string>
+    <string name="push">Push</string>
 </resources>
